@@ -18,9 +18,11 @@
     border-bottom: 1px solid #ddd;
     cursor: pointer;
     font-size: 14px;
+    color: black;
   }
   
   .accordionContent {
     padding: 10px;
     background-color: #fff;
+    color: black;
   }
