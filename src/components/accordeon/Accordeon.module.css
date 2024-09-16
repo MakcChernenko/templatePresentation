@@ -1,0 +1,26 @@
+.accordion {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    /* display: flex; */
+  }
+  
+  .accordionItem {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .accordionTitle {
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+    background-color: #f5f5f5;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .accordionContent {
+    padding: 10px;
+    background-color: #fff;
+  }
